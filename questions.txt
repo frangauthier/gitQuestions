@@ -1,0 +1,7 @@
+Q1: Who is the author name of the commit hashed 23e0ac56f456c39d925e2644ec3ca209d4410a99 from this repository: https://github.com/discordjs/discord.js
+Q1 answer:
+Q2: Name three branches name that are used in this repository: https://github.com/discordjs/discord.js
+Q2 answer:
+1.
+2.
+3.
