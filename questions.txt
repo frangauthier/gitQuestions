@@ -1,0 +1,7 @@
+Q1: Who is the author of the commit hashed c8a42006b84d56bc5d1dd7e1e9a6ad00c1a1d389 from this repository: https://github.com/expressjs/express 
+Q1 answer:
+Q2: Name three branches name that are used in this repository: https://github.com/Rapptz/discord.py
+Q2 answer:
+1.
+2.
+3.
